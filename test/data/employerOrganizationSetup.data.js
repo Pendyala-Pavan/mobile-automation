@@ -1,0 +1,16 @@
+export default {
+    organizationName: 'Apollo Healthcare',
+    hospitalNameMode: 'Same as Organization Name',//'Different Name',
+    hospitalName: 'Apollo Hospital',
+    phoneNumber: '9876543210',
+    pincode: '500081',
+    area: 'Madhapur',
+    streetAddress: 'Road No. 36, Madhapur',
+    authorizedPersonName: 'Ravi Kumar',
+    authorizedPersonEmail: 'ravikumar@yopmail.com',
+    authorizedPersonMobileNumber: '9876543211',
+    authorizedPersonDesignation: 'Director',
+    billingAddressMode: 'Same as Organization Address',//'Different Address',
+    billingAddress: 'Road No. 36, Madhapur, Hyderabad',
+    termsActionMode: 'Agree and Continue',//'cancel',
+};
