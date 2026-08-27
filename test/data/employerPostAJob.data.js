@@ -1,0 +1,23 @@
+export default {
+    jobType: 'Full-Time/Part Time',//'Procedure/Consultation'
+    profession: 'Doctor',
+    jobTitle: 'Cardiologist',
+    qualification: 'MBBS',
+    specialization: 'Cardiology',
+    department: 'Heart Surgeon',
+    skill: 'Critical Care',
+    experience: '5',
+    preferredLanguage: 'English',
+    jobDescription: 'Responsible for diagnosing and treating patients.',
+    numberOfPositions: '2',
+    salaryRange: '100000',
+    salaryType: 'Monthly',
+    otherFacilities: 'Food and accommodation provided',
+    dateOfJoining: '30-08-2026',
+    shift: 'Day Shift',
+    recruiterMode: 'Myself',
+    authorityName: 'Karthik',
+    authorityMobileNumber: '2222233330',
+    authorityEmail: 'karthik123@yopmail.com',
+    submissionMode: 'Save as Draft'//'Post the Job'//'Save As Template', 
+};
